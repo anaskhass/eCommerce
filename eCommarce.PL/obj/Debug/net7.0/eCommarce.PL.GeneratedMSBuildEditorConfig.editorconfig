@@ -1,0 +1,17 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = eCommarce.PL
+build_property.RootNamespace = eCommarce.PL
+build_property.ProjectDir = /Users/anas.khasawneh19999gmail.com/Desktop/tariq course backend/eProject/eCommarce/eCommarce.PL/
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/anas.khasawneh19999gmail.com/Desktop/tariq course backend/eProject/eCommarce/eCommarce.PL
+build_property._RazorSourceGeneratorDebug = 
