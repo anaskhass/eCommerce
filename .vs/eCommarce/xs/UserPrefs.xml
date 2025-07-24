@@ -1,20 +1,30 @@
 ﻿<Properties StartupConfiguration="{2EADFF4E-A912-4CF1-9BEB-BDB94B3AAC7B}|https">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.eCommarce.PL PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="eCommarce" expanded="True" selected="True">
-            <Node name="eCommarce.PL" expanded="True" />
+          <Node name="eCommarce" expanded="True">
+            <Node name="eCommarce.BLL">
+              <Node name="Services" expanded="True">
+                <Node name="CategoryService.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="eCommarce.DAL">
+              <Node name="Repositories" expanded="True" />
+            </Node>
+            <Node name="eCommarce.PL">
+              <Node name="Controllers" expanded="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.eCommarce.PL PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" FirstBuild="True" />
 </Properties>

@@ -1,0 +1,15 @@
+/Users/anas.khasawneh19999gmail.com/Desktop/tariq course backend/eProject/eCommarce/eCommarce.BLL/bin/Debug/net7.0/eCommarce.BLL.deps.json
+/Users/anas.khasawneh19999gmail.com/Desktop/tariq course backend/eProject/eCommarce/eCommarce.BLL/bin/Debug/net7.0/eCommarce.BLL.dll
+/Users/anas.khasawneh19999gmail.com/Desktop/tariq course backend/eProject/eCommarce/eCommarce.BLL/bin/Debug/net7.0/eCommarce.BLL.pdb
+/Users/anas.khasawneh19999gmail.com/Desktop/tariq course backend/eProject/eCommarce/eCommarce.BLL/bin/Debug/net7.0/eCommarce.DAL.dll
+/Users/anas.khasawneh19999gmail.com/Desktop/tariq course backend/eProject/eCommarce/eCommarce.BLL/bin/Debug/net7.0/eCommarce.DAL.pdb
+/Users/anas.khasawneh19999gmail.com/Desktop/tariq course backend/eProject/eCommarce/eCommarce.BLL/obj/Debug/net7.0/eCommarce.BLL.csproj.AssemblyReference.cache
+/Users/anas.khasawneh19999gmail.com/Desktop/tariq course backend/eProject/eCommarce/eCommarce.BLL/obj/Debug/net7.0/eCommarce.BLL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anas.khasawneh19999gmail.com/Desktop/tariq course backend/eProject/eCommarce/eCommarce.BLL/obj/Debug/net7.0/eCommarce.BLL.AssemblyInfoInputs.cache
+/Users/anas.khasawneh19999gmail.com/Desktop/tariq course backend/eProject/eCommarce/eCommarce.BLL/obj/Debug/net7.0/eCommarce.BLL.AssemblyInfo.cs
+/Users/anas.khasawneh19999gmail.com/Desktop/tariq course backend/eProject/eCommarce/eCommarce.BLL/obj/Debug/net7.0/eCommarce.BLL.csproj.CoreCompileInputs.cache
+/Users/anas.khasawneh19999gmail.com/Desktop/tariq course backend/eProject/eCommarce/eCommarce.BLL/obj/Debug/net7.0/eCommarce.BLL.csproj.CopyComplete
+/Users/anas.khasawneh19999gmail.com/Desktop/tariq course backend/eProject/eCommarce/eCommarce.BLL/obj/Debug/net7.0/eCommarce.BLL.dll
+/Users/anas.khasawneh19999gmail.com/Desktop/tariq course backend/eProject/eCommarce/eCommarce.BLL/obj/Debug/net7.0/refint/eCommarce.BLL.dll
+/Users/anas.khasawneh19999gmail.com/Desktop/tariq course backend/eProject/eCommarce/eCommarce.BLL/obj/Debug/net7.0/eCommarce.BLL.pdb
+/Users/anas.khasawneh19999gmail.com/Desktop/tariq course backend/eProject/eCommarce/eCommarce.BLL/obj/Debug/net7.0/ref/eCommarce.BLL.dll

@@ -1,0 +1,14 @@
+/Users/anas.khasawneh19999gmail.com/Desktop/tariq course backend/eProject/eCommarce/eCommarce.DAL/bin/Debug/net7.0/eCommarce.DAL.deps.json
+/Users/anas.khasawneh19999gmail.com/Desktop/tariq course backend/eProject/eCommarce/eCommarce.DAL/bin/Debug/net7.0/eCommarce.DAL.runtimeconfig.json
+/Users/anas.khasawneh19999gmail.com/Desktop/tariq course backend/eProject/eCommarce/eCommarce.DAL/bin/Debug/net7.0/eCommarce.DAL.dll
+/Users/anas.khasawneh19999gmail.com/Desktop/tariq course backend/eProject/eCommarce/eCommarce.DAL/bin/Debug/net7.0/eCommarce.DAL.pdb
+/Users/anas.khasawneh19999gmail.com/Desktop/tariq course backend/eProject/eCommarce/eCommarce.DAL/obj/Debug/net7.0/eCommarce.DAL.csproj.AssemblyReference.cache
+/Users/anas.khasawneh19999gmail.com/Desktop/tariq course backend/eProject/eCommarce/eCommarce.DAL/obj/Debug/net7.0/eCommarce.DAL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anas.khasawneh19999gmail.com/Desktop/tariq course backend/eProject/eCommarce/eCommarce.DAL/obj/Debug/net7.0/eCommarce.DAL.AssemblyInfoInputs.cache
+/Users/anas.khasawneh19999gmail.com/Desktop/tariq course backend/eProject/eCommarce/eCommarce.DAL/obj/Debug/net7.0/eCommarce.DAL.AssemblyInfo.cs
+/Users/anas.khasawneh19999gmail.com/Desktop/tariq course backend/eProject/eCommarce/eCommarce.DAL/obj/Debug/net7.0/eCommarce.DAL.csproj.CoreCompileInputs.cache
+/Users/anas.khasawneh19999gmail.com/Desktop/tariq course backend/eProject/eCommarce/eCommarce.DAL/obj/Debug/net7.0/eCommarce.DAL.dll
+/Users/anas.khasawneh19999gmail.com/Desktop/tariq course backend/eProject/eCommarce/eCommarce.DAL/obj/Debug/net7.0/refint/eCommarce.DAL.dll
+/Users/anas.khasawneh19999gmail.com/Desktop/tariq course backend/eProject/eCommarce/eCommarce.DAL/obj/Debug/net7.0/eCommarce.DAL.pdb
+/Users/anas.khasawneh19999gmail.com/Desktop/tariq course backend/eProject/eCommarce/eCommarce.DAL/obj/Debug/net7.0/eCommarce.DAL.genruntimeconfig.cache
+/Users/anas.khasawneh19999gmail.com/Desktop/tariq course backend/eProject/eCommarce/eCommarce.DAL/obj/Debug/net7.0/ref/eCommarce.DAL.dll
