@@ -1,6 +1,10 @@
 ﻿using eCommarce.BLL.Services;
+using eCommarce.BLL.Services.Class;
+using eCommarce.BLL.Services.Interface;
 using eCommarce.DAL.Data;
 using eCommarce.DAL.Repositories;
+using eCommarce.DAL.Repositories.Class;
+using eCommarce.DAL.Repositories.Interface;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -17,6 +21,9 @@ builder.Services.AddDbContext<ApplicationDbContext>(options =>
 
 builder.Services.AddScoped<ICategoryRepository,CategoryRepository>();
 builder.Services.AddScoped<ICategoryService, CategoryService>();
+builder.Services.AddScoped<IBrandRepository, BrandRepository>();
+builder.Services.AddScoped<IBrandService, BrandService>();
+
 builder.Services.AddScoped<ApplicationDbContext>();
 
 var app = builder.Build();

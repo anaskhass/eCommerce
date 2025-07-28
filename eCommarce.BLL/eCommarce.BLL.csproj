@@ -11,9 +11,13 @@
   </ItemGroup>
   <ItemGroup>
     <None Remove="Services\" />
+    <None Remove="Services\Class\" />
+    <None Remove="Services\Interface\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Services\" />
+    <Folder Include="Services\Class\" />
+    <Folder Include="Services\Interface\" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Mapster" Version="7.0.0" />

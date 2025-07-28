@@ -19,17 +19,17 @@ namespace eCommarce.API.Controllers
 
        
         [HttpGet("")]
-        public IActionResult GetAllCategories()
+        public IActionResult GetAll()
         {
            
-            return Ok(categoryService.GetAllCategories());
+            return Ok(categoryService.GetAll());
         }
 
        
         [HttpGet("{id}")]
-        public IActionResult GetCategoryById([FromRoute]int id)
+        public IActionResult GetById([FromRoute]int id)
         {
-            var category = categoryService.GetCategoryById(id);
+            var category = categoryService.GetById(id);
 
             if (category is null)
             {
@@ -40,25 +40,25 @@ namespace eCommarce.API.Controllers
 
         
         [HttpPost]
-        public IActionResult CreateCategory([FromBody] CategoryRequest request)
+        public IActionResult Create([FromBody] CategoryRequest request)
         {
-            var id=categoryService.CreateCategory(request);
-            return CreatedAtAction(nameof(GetCategoryById), new { id }, request);
+            var id=categoryService.Create(request);
+            return CreatedAtAction(nameof(GetById), new { id }, request);
         }
 
 
         [HttpPatch("{id}")]
-        public IActionResult UpdateCategory([FromRoute]int id, [FromBody] CategoryRequest request)
+        public IActionResult Update([FromRoute]int id, [FromBody] CategoryRequest request)
         {
-            var updated = categoryService.UpdateCategory(id, request);
+            var updated = categoryService.Update(id, request);
             return updated > 0 ? Ok() : NotFound(); 
         }
 
         
         [HttpDelete("{id}")]
-        public IActionResult DeleteCategory(int id)
+        public IActionResult Delete(int id)
         {
-            var deleted = categoryService.DeleteCategory(id);
+            var deleted = categoryService.Delete(id);
 
 
             return deleted > 0 ? Ok() : NotFound();

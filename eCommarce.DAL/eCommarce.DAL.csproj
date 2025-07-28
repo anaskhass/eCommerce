@@ -13,6 +13,8 @@
     <None Remove="DTO\Responses\" />
     <None Remove="Data\" />
     <None Remove="Repositories\" />
+    <None Remove="Repositories\Class\" />
+    <None Remove="Repositories\Interface\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Models\" />
@@ -21,6 +23,8 @@
     <Folder Include="DTO\Responses\" />
     <Folder Include="Data\" />
     <Folder Include="Repositories\" />
+    <Folder Include="Repositories\Class\" />
+    <Folder Include="Repositories\Interface\" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.0" />
