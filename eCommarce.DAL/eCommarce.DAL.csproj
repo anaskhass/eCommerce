@@ -15,6 +15,7 @@
     <None Remove="Repositories\" />
     <None Remove="Repositories\Class\" />
     <None Remove="Repositories\Interface\" />
+    <None Remove="Utlis\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Models\" />
@@ -25,6 +26,7 @@
     <Folder Include="Repositories\" />
     <Folder Include="Repositories\Class\" />
     <Folder Include="Repositories\Interface\" />
+    <Folder Include="Utlis\" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.0" />
@@ -35,5 +37,7 @@
     </PackageReference>
     <PackageReference Include="Microsoft.Extensions.Configuration" Version="7.0.0" />
     <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="7.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="7.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Http.Features" Version="5.0.17" />
   </ItemGroup>
 </Project>

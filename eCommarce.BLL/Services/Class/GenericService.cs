@@ -42,10 +42,16 @@ namespace eCommarce.BLL.Services.Class
 
         }
 
-        public IEnumerable<TResponse> GetAll()
+        public IEnumerable<TResponse> GetAll(bool onlyActive=false)
         {
 
             var entity = _repository.GetAll();
+
+
+            if (onlyActive)
+            {
+                entity = entity.Where(e => e.statues == Statues.Active);
+            }
             return entity.Adapt<IEnumerable<TResponse>>();
 
 

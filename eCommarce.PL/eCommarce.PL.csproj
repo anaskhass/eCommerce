@@ -15,11 +15,45 @@
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
       <PrivateAssets>all</PrivateAssets>
     </PackageReference>
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="7.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="7.0.0" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\eCommarce.BLL\eCommarce.BLL.csproj">
       <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="Areas\" />
+    <None Remove="Areas\Admin\" />
+    <None Remove="Areas\Customer\" />
+    <None Remove="Areas\Identity\" />
+    <None Remove="Areas\Identity\Controller\" />
+    <None Remove="Areas\Customer\Controller\" />
+    <None Remove="Areas\Admin\Controller\" />
+    <None Remove="Utils\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Areas\" />
+    <Folder Include="Areas\Admin\" />
+    <Folder Include="Areas\Customer\" />
+    <Folder Include="Areas\Identity\" />
+    <Folder Include="Areas\Identity\Controller\" />
+    <Folder Include="Areas\Customer\Controller\" />
+    <Folder Include="Areas\Admin\Controller\" />
+    <Folder Include="Utils\" />
+    <Folder Include="wwwroot\" />
+    <Folder Include="wwwroot\Images\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Remove="wwwroot\" />
+    <Content Remove="wwwroot\Images\40a3fc55-14d3-4370-8195-5c3013f2a032.png" />
+    <Content Remove="wwwroot\Images\beedbad1-05c9-443d-98fe-097718ff3af9.jpg" />
+    <Content Remove="wwwroot\Images\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="wwwroot\Images\40a3fc55-14d3-4370-8195-5c3013f2a032.png" />
+    <None Include="wwwroot\Images\beedbad1-05c9-443d-98fe-097718ff3af9.jpg" />
   </ItemGroup>
 </Project>

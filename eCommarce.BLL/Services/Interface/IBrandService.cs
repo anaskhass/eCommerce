@@ -7,6 +7,7 @@ namespace eCommarce.BLL.Services.Interface
 {
 	public interface IBrandService : IGenericServic<BrandRequest, BrandResponse, Brand>
     {
-	}
+        Task<int> CreateFile(BrandRequest request);
+    }
 }
 

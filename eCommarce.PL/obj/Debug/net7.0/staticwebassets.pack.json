@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/anas.khasawneh19999gmail.com/Desktop/tariq course backend/eProject/eCommarce/eCommarce.PL/wwwroot/Images/c341f6b2-5737-425e-8cfd-9ff6f91dc8a7.png",
+      "PackagePath": "staticwebassets/Images/c341f6b2-5737-425e-8cfd-9ff6f91dc8a7.png"
+    },
+    {
+      "Id": "/Users/anas.khasawneh19999gmail.com/Desktop/tariq course backend/eProject/eCommarce/eCommarce.PL/wwwroot/Images/e74de28e-6755-46ef-b420-f3251823252a.jpg",
+      "PackagePath": "staticwebassets/Images/e74de28e-6755-46ef-b420-f3251823252a.jpg"
+    },
+    {
+      "Id": "/Users/anas.khasawneh19999gmail.com/Desktop/tariq course backend/eProject/eCommarce/eCommarce.PL/wwwroot/Images/fc771765-4445-44bd-b0eb-e6be683a9cb4.png",
+      "PackagePath": "staticwebassets/Images/fc771765-4445-44bd-b0eb-e6be683a9cb4.png"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.eCommarce.PL.props",
+      "PackagePath": "build\\eCommarce.PL.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.eCommarce.PL.props",
+      "PackagePath": "buildMultiTargeting\\eCommarce.PL.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.eCommarce.PL.props",
+      "PackagePath": "buildTransitive\\eCommarce.PL.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.eCommarce.PL.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

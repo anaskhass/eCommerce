@@ -10,6 +10,7 @@
 /Users/anas.khasawneh19999gmail.com/Desktop/tariq course backend/eProject/eCommarce/eCommarce.PL/bin/Debug/net7.0/Humanizer.dll
 /Users/anas.khasawneh19999gmail.com/Desktop/tariq course backend/eProject/eCommarce/eCommarce.PL/bin/Debug/net7.0/Mapster.dll
 /Users/anas.khasawneh19999gmail.com/Desktop/tariq course backend/eProject/eCommarce/eCommarce.PL/bin/Debug/net7.0/Mapster.Core.dll
+/Users/anas.khasawneh19999gmail.com/Desktop/tariq course backend/eProject/eCommarce/eCommarce.PL/bin/Debug/net7.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 /Users/anas.khasawneh19999gmail.com/Desktop/tariq course backend/eProject/eCommarce/eCommarce.PL/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
 /Users/anas.khasawneh19999gmail.com/Desktop/tariq course backend/eProject/eCommarce/eCommarce.PL/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
 /Users/anas.khasawneh19999gmail.com/Desktop/tariq course backend/eProject/eCommarce/eCommarce.PL/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
@@ -74,9 +75,12 @@
 /Users/anas.khasawneh19999gmail.com/Desktop/tariq course backend/eProject/eCommarce/eCommarce.PL/obj/Debug/net7.0/staticwebassets.build.json
 /Users/anas.khasawneh19999gmail.com/Desktop/tariq course backend/eProject/eCommarce/eCommarce.PL/obj/Debug/net7.0/staticwebassets.development.json
 /Users/anas.khasawneh19999gmail.com/Desktop/tariq course backend/eProject/eCommarce/eCommarce.PL/obj/Debug/net7.0/scopedcss/bundle/eCommarce.PL.styles.css
-/Users/anas.khasawneh19999gmail.com/Desktop/tariq course backend/eProject/eCommarce/eCommarce.PL/obj/Debug/net7.0/eCommarce.PL.csproj.CopyComplete
 /Users/anas.khasawneh19999gmail.com/Desktop/tariq course backend/eProject/eCommarce/eCommarce.PL/obj/Debug/net7.0/eCommarce.PL.dll
 /Users/anas.khasawneh19999gmail.com/Desktop/tariq course backend/eProject/eCommarce/eCommarce.PL/obj/Debug/net7.0/refint/eCommarce.PL.dll
 /Users/anas.khasawneh19999gmail.com/Desktop/tariq course backend/eProject/eCommarce/eCommarce.PL/obj/Debug/net7.0/eCommarce.PL.pdb
 /Users/anas.khasawneh19999gmail.com/Desktop/tariq course backend/eProject/eCommarce/eCommarce.PL/obj/Debug/net7.0/eCommarce.PL.genruntimeconfig.cache
 /Users/anas.khasawneh19999gmail.com/Desktop/tariq course backend/eProject/eCommarce/eCommarce.PL/obj/Debug/net7.0/ref/eCommarce.PL.dll
+/Users/anas.khasawneh19999gmail.com/Desktop/tariq course backend/eProject/eCommarce/eCommarce.PL/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/anas.khasawneh19999gmail.com/Desktop/tariq course backend/eProject/eCommarce/eCommarce.PL/bin/Debug/net7.0/eCommarce.PL.staticwebassets.runtime.json
+/Users/anas.khasawneh19999gmail.com/Desktop/tariq course backend/eProject/eCommarce/eCommarce.PL/bin/Debug/net7.0/Microsoft.AspNetCore.Identity.UI.dll
+/Users/anas.khasawneh19999gmail.com/Desktop/tariq course backend/eProject/eCommarce/eCommarce.PL/obj/Debug/net7.0/eCommarce.PL.csproj.CopyComplete

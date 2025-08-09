@@ -5,24 +5,25 @@
 namespace eCommarce.DAL.Migrations
 {
     /// <inheritdoc />
-    public partial class FixBrandNameColumn : Migration
+    public partial class imageforbrand : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
         {
-            migrationBuilder.RenameColumn(
-                name: "Nmae",
+            migrationBuilder.AddColumn<string>(
+                name: "MainImage",
                 table: "Brands",
-                newName: "Name");
+                type: "nvarchar(max)",
+                nullable: false,
+                defaultValue: "");
         }
 
         /// <inheritdoc />
         protected override void Down(MigrationBuilder migrationBuilder)
         {
-            migrationBuilder.RenameColumn(
-                name: "Name",
-                table: "Brands",
-                newName: "Nmae");
+            migrationBuilder.DropColumn(
+                name: "MainImage",
+                table: "Brands");
         }
     }
 }

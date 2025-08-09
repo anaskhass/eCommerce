@@ -1,20 +1,21 @@
 ﻿<Properties StartupConfiguration="{2EADFF4E-A912-4CF1-9BEB-BDB94B3AAC7B}|https">
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.eCommarce.PL PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workbench ActiveDocument="eCommarce.PL/Controllers/CategoryController .cs">
-    <Files>
-      <File FileName="eCommarce.PL/Controllers/BrandController .cs" Line="60" Column="36" />
-      <File FileName="eCommarce.PL/Controllers/CategoryController .cs" Line="59" Column="36" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="eCommarce" expanded="True">
             <Node name="eCommarce.PL">
-              <Node name="Controllers" expanded="True">
-                <Node name="CategoryController .cs" selected="True" />
+              <Node name="Areas" expanded="True">
+                <Node name="Admin" expanded="True" />
+                <Node name="Customer" expanded="True">
+                  <Node name="Controller" expanded="True">
+                    <Node name="BrandController.cs" selected="True" />
+                  </Node>
+                </Node>
               </Node>
+              <Node name="Controllers" expanded="True" />
             </Node>
           </Node>
         </State>
@@ -22,7 +23,10 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/Users/anas.khasawneh19999gmail.com/Desktop/tariq course backend/eProject/eCommarce/eCommarce.PL/Areas/Identity/Controller/AccountController.cs" relfile="eCommarce.PL/Areas/Identity/Controller/AccountController.cs" line="22" column="1" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.eCommarce.PL PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
